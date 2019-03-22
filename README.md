@@ -1,4 +1,4 @@
-# App_Rachando A Conta Androi.
+# App_Rachando A Conta Android.
 
 App Criado durante o curso de desenvolvimento android.
 
